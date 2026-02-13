@@ -7,3 +7,4 @@ Production-oriented Spring AI platform prototype for RAG, tool calling, async in
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
 // guard against empty input
+// drop an unused branch
